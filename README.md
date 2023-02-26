@@ -1,1 +1,1 @@
-# Qiskit-Qauntum-Teleportation
+# Qiskit-Quantum-Teleportation
